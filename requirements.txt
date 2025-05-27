@@ -1,0 +1,12 @@
+Flask>=2.0
+Flask-SQLAlchemy>=2.5
+Flask-Login>=0.6
+Flask-Mail>=0.9
+itsdangerous>=2.0
+python-dotenv>=0.19
+requests>=2.25
+yookassa>=2.0
+Werkzeug>=2.0
+pytest>=7.0
+flake8>=4.0
+black>=23.0
